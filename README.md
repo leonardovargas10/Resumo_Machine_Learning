@@ -1,7 +1,7 @@
 ﻿# Resumo de Machine Learning
 
 <p align="center">
-  <img src = './machine_learning_01.jpeg' width = '50%'>
+  <img src = './machine_learning_01.jpg' width = '50%'>
 </p>
 
 ## Justificativa e Objetivos
